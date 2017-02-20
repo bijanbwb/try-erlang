@@ -5,5 +5,5 @@ mult(X,Y) ->
   X*Y.
 
 double(X,Y) ->
-  X*2.
+  mult(2,X).
 
