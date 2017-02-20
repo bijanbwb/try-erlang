@@ -4,6 +4,6 @@
 mult(X,Y) ->
   X*Y.
 
-double(X,Y) ->
+double(X) ->
   mult(2,X).
 
